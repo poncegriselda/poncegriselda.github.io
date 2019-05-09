@@ -1,0 +1,47 @@
+body {
+ background-color: #ffb3b3;
+}
+
+h1 {
+    font-size: 36pt;
+    color: black;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: 'Courier New' , 'Helvetica' sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28pt;
+    color: black;
+    text-decoration: inherit;
+    font-family: 'Courier New' , 'Helvetica' 
+        sans-serif;
+}
+
+p {
+     font-family: 'Courier New' , 'Helvetica' 
+        sans-serif;
+    font-size: 12pt;
+}
+
+h3 {
+    font-size: 17pt;
+    color: #00264d;
+}
+
+li {
+    font-size: 13pt;
+    color: #000099;
+    text-decoration: none;
+    font-family: 'Courier New' , 'Helvetica' 
+        sans-serif;
+}
+
+ol {
+    font-size: 13pt;
+    color: #000099;
+    text-decoration: none;
+    font-family: 'Courier New' , 'Helvetica' 
+        sans-serif;
+}

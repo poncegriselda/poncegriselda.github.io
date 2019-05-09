@@ -1,0 +1,26 @@
+body {
+ background-image: url(../Images/sf.jpg);
+}
+
+h1 {
+    font-size: 36pt;
+    color: #b30000;
+    text-decoration:none;
+    font-family:'Helvetica' sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36pt;
+    color: #b30000;
+    font-family: 'Helvetica' 
+        sans-serif;
+}
+
+p {
+     font-family: 'Helvetica' 
+        sans-serif;
+    font-size: 15pt;
+    color: darkblue;
+}
+
